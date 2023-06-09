@@ -143,7 +143,7 @@ p {
 }
 
 .error {
-  color: orangered;
+  color: #40E0D0;
 }
 
 .success {
@@ -1280,7 +1280,7 @@ p {
   position: absolute;
   bottom: 0;
   height: 2px;
-  background: #F3A63E;
+  background: #40E0D0;
   z-index: -1;
   opacity: 0;
   border-radius: 10px;
