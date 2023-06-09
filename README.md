@@ -1,4 +1,4 @@
-# SignLingo 
+# sssss
 
 
-WebSite SignLingo  All Copyright Reserved
+All Copyright Reserved
