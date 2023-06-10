@@ -1634,13 +1634,26 @@ p {
 .tracking-section .tracking-shape .shape {
   position: absolute;
   z-index: -1;
-  top: 50%;
+  top: 40%;
   left: 0;
   transform: translateY(-50%);
 }
 
 @media only screen and (min-width: 1400px) {
   .tracking-section .tracking-shape .shape {
+    left: 200px;
+  }
+}
+.tracking-section .tracking-shape2 .shape {
+  position: absolute;
+  z-index: -1;
+  top: 90%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+@media only screen and (min-width: 1400px) {
+  .tracking-section .tracking-shape2 .shape {
     left: 200px;
   }
 }
